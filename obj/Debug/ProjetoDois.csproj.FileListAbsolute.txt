@@ -1,0 +1,8 @@
+C:\Users\41557\Desktop\C#\ProjetoDois\ProjetoDois\bin\Debug\ProjetoDois.exe.config
+C:\Users\41557\Desktop\C#\ProjetoDois\ProjetoDois\bin\Debug\ProjetoDois.exe
+C:\Users\41557\Desktop\C#\ProjetoDois\ProjetoDois\bin\Debug\ProjetoDois.pdb
+C:\Users\41557\Desktop\C#\ProjetoDois\ProjetoDois\obj\Debug\ProjetoDois.csproj.AssemblyReference.cache
+C:\Users\41557\Desktop\C#\ProjetoDois\ProjetoDois\obj\Debug\ProjetoDois.csproj.SuggestedBindingRedirects.cache
+C:\Users\41557\Desktop\C#\ProjetoDois\ProjetoDois\obj\Debug\ProjetoDois.csproj.CoreCompileInputs.cache
+C:\Users\41557\Desktop\C#\ProjetoDois\ProjetoDois\obj\Debug\ProjetoDois.exe
+C:\Users\41557\Desktop\C#\ProjetoDois\ProjetoDois\obj\Debug\ProjetoDois.pdb
